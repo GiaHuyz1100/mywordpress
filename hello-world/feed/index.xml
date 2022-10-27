@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Bình luận cho 	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://giahuyz1100.github.io/mywordpress</link>
+	Các phản hồi luận về: Hello world!	</title>
+	<atom:link href="http://localhost/myproject/wordpress/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://giahuyz1100.github.io/mywordpress/hello-world/</link>
 	<description>Gia Huy</description>
 	<lastBuildDate>Thu, 25 Aug 2022 00:58:49 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>
-		Phản hồi cho Hello world! bởi A WordPress Commenter		</title>
+		Bởi: A WordPress Commenter		</title>
 		<link>https://giahuyz1100.github.io/mywordpress/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
